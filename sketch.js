@@ -54,20 +54,21 @@ thickness = random(22,83);
   Boundary4.shapeColor = ("white");
 
   //MAKE SERVICE CENTRE HERE
-  wall1 = createSprite(1300,100,thickness,height/2);
+ wall1 = createSprite(1300,100,thickness,70);
   wall1.shapeColor = (80,80,80);
 
-  wall2 = createSprite(1300,195,thickness,height/2);
+  wall2 = createSprite(1300,195,thickness,70);
   wall2.shapeColor = (80,80,80);
 
-   wall3 = createSprite(1300,300,thickness,height/2);
+   wall3 = createSprite(1300,300,thickness,70);
   wall3.shapeColor = (80,80,80);
 
-  wall4 = createSprite(1300,410,thickness,height/2);
+  wall4 = createSprite(1300,410,thickness,70);
   wall4.shapeColor = (80,80,80);
 
-  wall5 = createSprite(1300,520,thickness,height/2);
+  wall5 = createSprite(1300,520,thickness,70);
   wall5.shapeColor = (80,80,80);
+  
   
 
 }
